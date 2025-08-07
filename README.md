@@ -118,16 +118,5 @@ pip install streamlit fastapi uvicorn pandas requests mysql-connector-python
 
 ---
 
-## 🧩 To-Do (Suggestions)
 
-- [ ] Add user authentication
-- [ ] Export analytics to Excel
-- [ ] Pagination for long expense lists
-- [ ] Dockerize the app
-- [ ] Deploy online (e.g. Render, Railway)
 
----
-
-## 🤝 License
-
-This project is open-source under the [MIT License](LICENSE).
