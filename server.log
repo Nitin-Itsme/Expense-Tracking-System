@@ -1,0 +1,113 @@
+2025-07-29 18:45:41,260 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-29 18:45:41,996 - db_helper - INFO - fetch_expense_summary called with start: {start_date} end: {end_date}
+2025-07-30 17:30:54,880 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 17:31:42,004 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 17:45:59,632 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 17:46:59,363 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 17:48:54,831 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 17:50:40,454 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 17:51:24,840 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 17:52:26,226 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 17:54:02,969 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 17:55:11,403 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 17:57:29,170 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 17:58:26,005 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 17:59:27,975 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 18:07:52,313 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 18:09:32,120 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 18:27:01,977 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 18:31:39,146 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 18:34:01,575 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 18:34:43,449 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 18:34:47,746 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 18:34:52,809 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 18:35:52,185 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 18:35:57,564 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 18:36:03,012 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 18:53:33,282 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 18:53:38,595 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 18:54:22,863 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 18:54:24,985 - db_helper - INFO - delete_expenses_for_date for date called with {expense_date}
+2025-07-30 18:54:25,019 - db_helper - INFO - insert_expense for date called with date:{expense_date} , amount:{amount} , category:{category} , notes:{notes}
+2025-07-30 18:54:33,062 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 18:54:38,423 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 19:41:45,960 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 19:43:28,409 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 19:43:34,527 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 19:47:29,334 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 19:47:38,813 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 19:54:04,441 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 19:54:48,596 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-30 19:55:23,855 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:02:53,573 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:05:11,129 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:05:47,792 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:12:29,784 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:12:38,587 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:14:17,617 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:17:17,508 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:20:57,855 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:23:22,733 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:25:08,848 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:27:28,252 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:27:36,543 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:37:12,732 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:37:18,278 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:37:51,414 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:38:55,438 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:38:57,571 - db_helper - INFO - delete_expenses_for_date for date called with {expense_date}
+2025-07-31 17:38:57,642 - db_helper - INFO - insert_expense for date called with date:{expense_date} , amount:{amount} , category:{category} , notes:{notes}
+2025-07-31 17:38:58,004 - db_helper - INFO - insert_expense for date called with date:{expense_date} , amount:{amount} , category:{category} , notes:{notes}
+2025-07-31 17:39:05,397 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 17:39:13,092 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 18:33:46,733 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 18:35:36,967 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 18:41:39,749 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 18:41:43,612 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 18:41:45,824 - db_helper - INFO - fetch_expense_summary called with start: {start_date} end: {end_date}
+2025-07-31 18:48:35,977 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 18:48:37,794 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 18:48:39,880 - db_helper - INFO - fetch_expense_summary called with start: {start_date} end: {end_date}
+2025-07-31 18:50:05,195 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 18:50:07,275 - db_helper - INFO - fetch_expense_summary called with start: {start_date} end: {end_date}
+2025-07-31 18:57:33,797 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 18:57:35,881 - db_helper - INFO - fetch_expense_summary called with start: {start_date} end: {end_date}
+2025-07-31 18:58:22,220 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 18:58:28,619 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-07-31 18:58:30,720 - db_helper - INFO - fetch_expense_summary called with start: {start_date} end: {end_date}
+2025-08-05 16:30:40,791 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 17:02:11,851 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 17:31:38,095 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 17:35:26,527 - db_helper - INFO - fetch_expense_summary_by_months
+2025-08-05 17:40:01,715 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 17:41:56,423 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 17:45:34,573 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 18:36:50,923 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 18:37:03,912 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 18:37:07,878 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 18:40:16,865 - db_helper - INFO - fetch_expense_summary_by_months
+2025-08-05 18:41:46,619 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 18:46:38,590 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 18:54:18,161 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 18:57:57,774 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 19:02:28,261 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 19:11:55,981 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 19:22:48,712 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 19:23:06,114 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 19:30:59,666 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 19:41:49,132 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 19:45:14,297 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 19:45:28,202 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 19:54:09,220 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 19:55:05,207 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 19:57:47,319 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 20:04:47,478 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-05 20:06:42,900 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-07 16:39:44,061 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-07 16:39:46,659 - db_helper - INFO - fetch_expense_summary_by_months
+2025-08-07 16:40:11,354 - db_helper - INFO - fetch_expense_summary_by_months
+2025-08-07 16:47:31,777 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-07 16:47:33,857 - db_helper - INFO - fetch_expense_summary_by_months
+2025-08-07 16:52:40,187 - db_helper - INFO - Fetching expenses for date called with {expense_date}
+2025-08-07 16:52:42,647 - db_helper - INFO - fetch_expense_summary called with start: {start_date} end: {end_date}
+2025-08-07 16:52:44,815 - db_helper - INFO - fetch_expense_summary_by_months
